@@ -49,13 +49,6 @@
             "{NF6(【 33 / 35 】)} | 🌸 ɴᴀᴋʀᴏᴛʜ",
             "{NF6(【 34 / 35 】)} | 🌸 ʟᴀᴜʀɪᴇʟ",
             "{NF6(【 35 / 35 】)} | 🌸 ᴀɪʀɪ"
-          ],
-        "text-3": [
-            "🌡️ {temp:c} °C | 🍃 {wind:kph} km/",
-            "CPU : {cpu:usage}% RAM: {ram:usage}%",
-            "Ping Server : {ping} ms",
-            "🌏 {city} | ☀️ UV Index {uv}",
-            "☁ {cloud} | 🌎 {country}"
         ],
         "bigimg": [
             "https://i.ibb.co/9s3BXdX/raw-676624984.gif",
@@ -98,80 +91,6 @@
         "smallimg": [],
         "button-1": [
             {
-                "name": "M",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "IG",
+                "url": "https://www.instagram.com/yzxin.n1?igsh=MWoyMGozYXV2bG1iZQ=="
             },
-            {
-                "name": "MI",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "MIY",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "MIYA",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "MIYAK",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "MIYAKO",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "MIYAKO ",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "MIYAKO V",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "MIYAKO V1",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "O",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OW",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4l",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4le",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4lev",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            },
-            {
-                "name": "OWN BY 4levy",
-                "url": "https://discord.gg/jmmrQcwYP3"
-            }
-        ],
-        "button-2": [
-            {
-                "name": "4levy 's Contact",
-                "url": "https://github.com/4levy"
-            }
-        ]
-    }
-  }
-  
